@@ -13,7 +13,7 @@ This repository contains the projects that I've developed during Udacity's [Deep
 
 ### Labs / Projects
 
-The labs and projects can be found below.  All of the projects use rich simulation environments from [Unity ML-Agents](https://github.com/Unity-Technologies/ml-agents). In the [Deep Reinforcement Learning Nanodegree](https://www.udacity.com/course/deep-reinforcement-learning-nanodegree--nd893) program, you will receive a review of your project.  These reviews are meant to give you personalized feedback and to tell you what can be improved in your code.
+All of the projects use rich simulation environments from [Unity ML-Agents](https://github.com/Unity-Technologies/ml-agents). My solutions to the projects can be found below:
 
 * [Navigation](https://github.com/HROlive/Deep-Reinforcement-Learning-Nanodegree/tree/master/project_1-navigation): In the first project, I trained an agent to collect yellow bananas while avoiding blue bananas.
 * [Continuous Control](https://github.com/HROlive/Deep-Reinforcement-Learning-Nanodegree/tree/master/project_2-continuous_control): In the second project, I trained a robotic arm to reach target locations.

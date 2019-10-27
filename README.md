@@ -11,7 +11,7 @@ This repository contains the projects that I've developed during Udacity's [Deep
 
 ## Table of Contents
 
-### Labs / Projects
+### Projects
 
 All of the projects use rich simulation environments from [Unity ML-Agents](https://github.com/Unity-Technologies/ml-agents). My solutions to the projects can be found below:
 
